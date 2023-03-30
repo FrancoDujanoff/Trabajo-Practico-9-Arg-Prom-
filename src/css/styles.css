@@ -1,0 +1,6 @@
+body{
+    background: url(../img/ondas.svg) no-repeat center center fixed;
+    background-size: cover;
+    background-color:  #22193F;
+    height: 10px;
+}
